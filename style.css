@@ -1,0 +1,82 @@
+#title {
+ font-family: monospace;
+ font-size: 50px;
+}
+
+#box {
+max-width: 100rem;
+border: sold;
+background-color: #000000;
+margin: -1rem auto;
+border-radius: 0.0%;
+color: #ffffff;
+}
+
+#iner-box {
+  max-width: 50rem;
+  border: sold;
+  background-color: #ffffff;
+  margin: auto;
+  border-radius: 0.0%;
+  color: #000000;
+}
+
+#description:after {
+  content: "Super Bowl XLVIII Survey";
+  font-size: 15px;
+}
+
+#image {
+  height: auto;
+  width: auto;
+  max-width: 650px;
+  max-height: auto;
+  display: block;
+}
+
+.align-img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 50%;
+}
+
+.align-text {
+  text-align: center;
+}
+
+#survey-form {
+
+}
+
+#name {
+
+}
+
+#email {
+
+}
+
+#number {
+
+}
+
+#name-label {
+
+}
+
+#email-label {
+
+}
+
+#number-label {
+
+}
+
+#dropdown {
+
+}
+
+#submit {
+
+}
